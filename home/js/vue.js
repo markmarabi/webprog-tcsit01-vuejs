@@ -2,7 +2,7 @@
   const app = Vue.createApp({
    data() {
     return {
-     message: "Hello World!"
+     message: "Hello Webprog World! With separate css and js files."
     }
    }
   })
